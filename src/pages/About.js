@@ -20,8 +20,10 @@ const About = () => {
           User can review profile of a specific user and get connected.
         </p>
         <p className="lead">
-          This app use public API to fetch random users, React for Fronend and
-          ContextAPI/Hooks for communication among components.
+          <strong>
+            This app uses public API to fetch random users, React for Fronend
+            and ContextAPI/Hooks for communication among components.
+          </strong>
         </p>
       </div>
     </div>
